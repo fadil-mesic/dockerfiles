@@ -40,17 +40,17 @@
         },
         "colorlog": {
             "hashes": [
-                "sha256:3dd15cb27e8119a24c1a7b5c93f9f3b455855e0f73993b1c25921b2f646f1dcd",
-                "sha256:59b53160c60902c405cdec28d38356e09d40686659048893e026ecbd589516b1"
+                "sha256:4e6be13d9169254e2ded6526a6a4a1abb8ac564f2fa65b310a98e4ca5bea2c04",
+                "sha256:f17c013a06962b02f4449ee07cfdbe6b287df29efc2c9a1515b4a376f4e588ea"
             ],
-            "version": "==4.8.0"
+            "version": "==5.0.1"
         },
         "furl": {
             "hashes": [
-                "sha256:c0e0231a1feee2acd256574b7033df3144775451c610cb587060d6a0d7e0b621",
-                "sha256:f4d6f1e5479c376a5b7bdc62795d736d8c1b2a754f366a2ad2816e46e946e22e"
+                "sha256:a2c6adb472fc5faba2e18b6c28b83464b80201f168fd10b81997895a7cb5d5a6",
+                "sha256:f7dba33eafbee7dbc83963534b25e72f816cced48ac53191ee60bfcc62933918"
             ],
-            "version": "==2.1.0"
+            "version": "==2.1.2"
         },
         "idna": {
             "hashes": [
@@ -61,10 +61,10 @@
         },
         "libtaxii": {
             "hashes": [
-                "sha256:ccdd3c50f6cac388b00929f3456be8800f27f725a18847986b33be195e3c0128",
-                "sha256:d76c8d59030d5534b96c82dcc503df2b214febd47c18a95cc35b674f4be6eb78"
+                "sha256:2ab065e4510b5ab3ad378cf845156a3ce9c362a873ba731726eca2d9b52f48b7",
+                "sha256:7191b3a8db1f8eb379a640ca1e771d62f0a66d97496ddb347636506964b9e2e2"
             ],
-            "version": "==1.1.118"
+            "version": "==1.1.119"
         },
         "lxml": {
             "hashes": [
@@ -132,11 +132,11 @@
         },
         "pytz": {
             "hashes": [
-                "sha256:16962c5fb8db4a8f63a26646d8886e9d769b6c511543557bc84e9569fb9a9cb4",
-                "sha256:180befebb1927b16f6b57101720075a984c019ac16b1b7575673bea42c6c3da5"
+                "sha256:83a4a90894bf38e243cf052c8b58f381bfe9a7a483f6a9cab140bc7f702ac4da",
+                "sha256:eb10ce3e7736052ed3623d49975ce333bcd712c7bb19a58b9e2089d4057d0798"
             ],
             "index": "pypi",
-            "version": "==2020.5"
+            "version": "==2021.1"
         },
         "requests": {
             "hashes": [
