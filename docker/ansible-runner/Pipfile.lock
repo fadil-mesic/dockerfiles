@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "f5081a76e0349440eb04daaa677b1886c1732a4c74fc5683bfaa13f12aae9087"
+            "sha256": "c21b6261a67323f5d51e505bbeb230f1acde747a34f957071c01dd556a35fcfd"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -31,10 +31,10 @@
         },
         "aliyun-python-sdk-ecs": {
             "hashes": [
-                "sha256:46397b363f5745c9cd008b88d9659eb891c2fa9afcd692b90da73dae8c05a9a9",
-                "sha256:ad39fea95218927898a14338406a8163209db08b633d727926564f669a6add8c"
+                "sha256:54d3ff24db0468b0153957315f5d2122945c36949fc2f46dbd6fdc4f8bf368f3",
+                "sha256:9a232e8307abc2c1145babf2e2793b1940820d53710a7ff6cbff9f915d126fb2"
             ],
-            "version": "==4.23.11"
+            "version": "==4.24.1"
         },
         "aliyun-python-sdk-ess": {
             "hashes": [
@@ -103,10 +103,10 @@
         },
         "ansible": {
             "hashes": [
-                "sha256:9ff024500116d53c460cb09ea92e3c9404119f100d1d1ff0de69a9dafca561d5"
+                "sha256:2de5385c48a2a24a19f6cbaccc7d7684c64b6194f9a9b175aba7949d53b07bc9"
             ],
             "index": "pypi",
-            "version": "==2.10.7"
+            "version": "==3.3.0"
         },
         "ansible-base": {
             "hashes": [
